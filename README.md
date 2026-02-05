@@ -82,10 +82,4 @@ This project was a personal turning point.
 It showed me that data work doesn’t have to be abstract or detached — it can be narrative, investigative, and deeply human.  
 Completing this analysis is what convinced me that pursuing a career in data and information science was not just possible, but meaningful to me.
 
----
-
-## Repository Contents
-- `/data/` – cleaned Titanic passenger dataset (CSV)
-- `/visuals/` – infographic PDFs
-- `/methodology/` – notes on data cleaning and research decisions
 
