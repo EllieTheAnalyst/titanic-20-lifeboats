@@ -1,0 +1,23 @@
+Lifeboat,Prominent Nationality,Prominent Class,Male,Female,Occupancy at Rescue,Av.Age,Remarks,Majority
+1,England,Crew,10,2,12,"34,5",,Men 
+2,England,1st,7,11,18,"29,5",,Women
+3,England,1st,25,12,37,"35,9",,Men
+4,USA,1st,20,28,48,"32,6",1 MALE DIED,Women
+5,USA,1st,17,14,31,"36,7",,Men
+6,USA,1st,5,19,24,"37,6",OLDEST,Women
+7,USA,1st,19,11,30,"31,1",,Men
+8,USA,1st,3,27,30,"35,9",,Women
+9,England,Crew,19,22,41,"32,1",,Women
+10,England,2nd,8,29,37,"28,7",,Women
+11,England,2nd,26,35,61,30,,Women
+12,England,2nd,30,26,59,"25,9",,Men
+13,England,3rd,41,27,68,"26,8",,Men
+14,England,2nd,19,36,35,"26,9",,Women
+15,England,3rd,55,16,71,"27,4",,Men
+16,England,3rd,8,21,31,"26,4",,Women
+A,England,3rd,14,2,0,"31,4","ABANDONED, 3 MALE & 2 FEMALE DIED",Men
+B,England,Crew,23,0,0,"25,9",ABANDONED,Men
+C,Lebanon,3rd,15,28,43,"23,6",YOUNGEST,Women
+D,England,3rd,16,14,30,"27,5",,Men
+,14 Boats England / 5 Boats USA / 1 Boat Lebanon,7 First Class/6 Third Class / 4 Second Class/ 3 Crew,343,363,706,"30,32",TYPICAL AGE SAVED: 30 YEARS OLD,11 Male Boats / 10 Female Boats
+,,,48.59%,51.41%,100%,,,
