@@ -1,7 +1,7 @@
 # The Titanic, Retold in 20 Lifeboats
 
 ## Project Overview
-I have been obsessed with the Titanic disaster for years — not just as a historical event, but as a human one.
+I have been obsessed with the Titanic disaster for years, not just as a historical event, but as a human one.
 
 Instead of approaching the Titanic dataset as a standard Kaggle challenge, this project grew out of curiosity:  
 **Who exactly survived, on which lifeboat, and what do those lifeboats reveal when treated as individual units of analysis?**
