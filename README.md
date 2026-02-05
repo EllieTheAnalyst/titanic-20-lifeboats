@@ -76,7 +76,7 @@ The goal was not only to analyse survival, but to make the data **legible, inter
 
 ---
 
-## Why This Project Matters to Me
+## Why This Project Matters To Me
 This project was a personal turning point.
 
 It showed me that data work doesn’t have to be abstract or detached — it can be narrative, investigative, and deeply human.  
