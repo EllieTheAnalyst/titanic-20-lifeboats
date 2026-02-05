@@ -1,0 +1,56 @@
+Name,Gender,Age,Class,Nationality,Survived,lifeboat,Profession,Remarks,Death,Age of Death
+"Chevré, Mr. Paul Romaine Marie Léonce",male,45,1st,Belgium,yes,7,,,,
+"Hogg, Mr. George Alfred",male,29,deck crew,England,yes,7,sailor,wanted to turn back to pick up passengers in the water but was shouted down by the boat's occupants,,
+"Jewell, Mr. Archie",male,23,deck crew,England,yes,7,sailor,"survived the sinking of the Titanic and sister ship HMHS Britannic, died during the sinking of SS Donegal in WW1, part of three sinkings",17 April 1917,28
+"Weller, Mr. William Clifford",male,30,deck crew,England,yes,7,,,,
+"Maréchal, Mr. Pierre",male,29,1st,France,yes,7,,,,
+"Omont, Mr. Alfred Fernand",male,29,1st,France,yes,7,,,,
+"Nourney, Mr. Alfred",male,20,1st,Germany,yes,7,salesman,"traveling under the pseudonym Baron Alfred von Drachstedt, originally owned a second class ticket, upgraded",15 November 1972,80
+"McGough, Mr. James Robert",male,35,1st,Ireland,yes,7,,,,
+"Gibson, Miss. Dorothy Winifred",female,22,1st,United States,yes,7,"actress, singer, dancer","starring in the first movie about the disaster, Nazi sympathizer, alleged intelligence operative, her father died young",17 February 1946,56
+"Hays, Miss. Margaret Bechstein",female,24,1st,United States,yes,7,heiress,"pomeranian ""Bebe"" on lifeboat, cared for two Titanic Orphans",21 August 1956,68
+"Flegenheim, Mrs. Antoinette",female,48,1st,United States,yes,7,socialite,,8 April 1943,79
+"Snyder, Mrs. Nelle",female,23,1st,United States,yes,7,wife of a banker,,,
+"Gibson, Mrs. Pauline Caroline",female,44,1st,United States,yes,7,wife of an advertising salesman and publisher,,,
+"Bishop, Mrs. Helen",female,19,1st,United States,yes,7,,"had a poodle named Freu Freu she had to leave back in the cabin, she dreamed about him looking out the window while she left",,
+"Earnshaw, Mrs. Olive",female,23,1st,United States,yes,7,,friends with Margaret Heys,,
+"Greenfield, Mrs. Blanche",female,45,1st,United States,yes,7,,,,
+"Potter, Mrs. Lily Alexenia",female,56,1st,United States,yes,7,,friends with Margaret Heys,,
+"Taylor, Mrs. Juliet Cummins",female,49,1st,United States,yes,Transfer From 5 to 7,,apparently boat 5 the most likely option. husband and wife were lowered in the same boat. boat 7 is already full. ,5,
+"Dodge, Mrs. Ruth",female,34,1st,United States,yes,Transfer from 5 to 7,,,,
+"Sloper, Mr. William Thompson",male,28,1st,United States,yes,7,banker,falsely accused of dressing as a woman,1 May 1955,71
+"Snyder, Mr. John Pillsbury",male,24,1st,United States,yes,7,"banker, politican, automobile business",,22 July 1959,71
+"Bishop, Mr. Dickinson H.",male,25,1st,United States,yes,7,businessman,falsely accused of dressing as a woman,,
+"Seward, Mr. Frederic Kimber",male,34,1st,United States,yes,7,lawyer,hot shot lawyer in new york,7 December 1943,65
+"Blank, Mr. Henry",male,39,1st,United States,yes,7,,,,
+"Greenfield, Mr. William Bertram",male,23,1st,United States,yes,7,,,,
+"Tucker, Mr. Gilbert Milligan jr",male,31,1st,United States,yes,7,,admirer of Margaret Heys and remained friends with her,,
+"Taylor, Mr. Elmer Zebley",male,48,1st,United States,yes,Transfer From 5 to 7,"manufacturer, paper industry",apparently boat 5 the most likely option. boat 7 is already full. ,5,"manufacturer, paper industry"
+"Dodge, Master. Washington",male,4,1st,United States,yes,Transfer from 5 to 7,"Times Magazine financial editor, investor, vice president of stockbrokers Clark, Dodge & Co",first child to board a lifeboat,3 December 1974,67
+"Daniel, Mr. Robert Williams",male,27,1st,United States,yes,7,,"his accounts don't seem logical (him swimming in water for hours), he was apparently cold so Mrs. Dodge put a blanked around him. She was first in boat 5 and was later transferred to boat 7. ",,
+"Lowe, Mr. Harold Godfrey",male,29,deck crew,Wales,yes,7,,,,
+,,,,,,,,,,
+,,,,,,30,,,,
+Analysis,at Rescue,at Launch,,,,,,,,
+Total Occupancy,30,26,,,,,,,,
+Launch Location,starboard,,,,,,,,,
+Launch Time,00:45,first lifeboat lowered on starboard,,,Transfer from Boat 5,4,,,,
+Rescue Time (Carpathia),05:10,one of the first boats to be picked up,,,Drifted with Boat 5 until Rescue,,,,,
+Lifeboat Material,standard wooden,,,,,,,,,
+Crew,4,,,,,,,,,
+First Class,26,,,,,,,,,
+Second Class,0,,,,,,,,,
+Third Class,0,,,,,,,,,
+England,3,,,,,,,,,
+Belgium,1,,,,,,,,,
+USA,21,,,,,,,,,
+Wales,1,,,,,,,,,
+Ireland,1,,,,,,,,,
+France,2,,,,,,,,,
+Germany,1,,,,,,,,,
+Average Age,"31,3",,,,,,,,,
+Max Age,56,,,,,,,,,
+Min Age,4,,,,,,,,,
+Male ,19,,,,,,,,,
+Female,11,,,,,,,,,
+Pets,1,"Marageret Hays' Pomeranian ""Bebe""",,,,,,,,

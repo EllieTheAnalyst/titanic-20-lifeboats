@@ -1,0 +1,33 @@
+Name,Gender,Age,Class,Nationality,Survived,Lifeboat,Profession,remarks,Business Owner
+"Duff Gordon, Lucy Christiana, Lady",female,48,1st,England,yes,Lifeboat 1,fashion designer,"got on lifeboat 1, did not want to be separated from her husband, later estranged from him, escaped the sinking of the Lusitania by cancelling her trip",yes
+"Duff Gordon, Sir. Cosmo Edmund",male,49,1st,England,yes,Lifeboat 1,"fencer, aristocrat","got on lifeboat 1, rumoured to have bribed a sailor not to rescue more people",yes
+"Francatelli, Miss. Laura Mabel",female,32,1st,England,yes,Lifeboat 1,"secretary, assistant","secretary to Duff Gordon, Lucy Christiana, Lady",
+"Horswill, Mr. Albert Edward James",male,33,deck crew,England,yes,Lifeboat 1,able seaman,,
+"Symons, Mr. George Thomas Macdonald",male,24,deck crew,England,yes,Lifeboat 1,lookout,,
+"Collins, Mr. John",male,38,engineering crew,England,yes,Lifeboat 1,scullion,,
+"Hendrickson, Mr. Charles Osker",male,28,engineering crew,England,yes,Lifeboat 1,"leading fireman, fireman",,
+"Pusey, Mr. William Robert Holland",male,22,engineering crew,England,yes,Lifeboat 1,fireman,,
+"Sheath, Mr. Frederick",male,20,engineering crew,England,yes,Lifeboat 1,trimmer,,
+"Taylor, Mr. George/ James Taylor",male,24,engineering crew,England,yes,Lifeboat 1,fireman,"signed on under a fake name of ""James""",
+"Salomon, Mr. Abraham Lincoln",male,43,1st,United States,yes,Lifeboat 1,"businessman, stationery dealer, wholesale stationer",,yes
+"Stengel, Mr. Charles Emil Henry",male,54,1st,United States,yes,Lifeboat 1,"businessman, leather manufacturer",,yes
+,,,,,,,,,
+Launch Time,01:05,,,,,,,,
+Rescue Time (Carpathia),04:10,,,,,,,,
+Material,Emergency Cutter,,,,,,,,
+Total Occupancy (confirmed),12,,,,,,,,
+First Class,5,,,,,,,,
+Average Age,"34,58333333",,,,,,,,
+Crew,7,,,,,,,,
+England,10,,,,,,,,
+USA,2,,,,,,,,
+Average Age,"34,58333333",,,,,,,,
+Max Age,54,,,,,,,,
+Min Age,20,,,,,,,,
+Total Females,2,,,,,,,,
+Total Males,10,,,,,,,,
+Launch Time,01:05,,,,,,,,
+Rescue Time (Carpathia),04:10,,,,,,,,
+Launch Location,starboard,,,,,,,,
+Lifeboat Material,wooden cutter,,,,,,,,
+Saved Pets? ,0,,,,,,,,
