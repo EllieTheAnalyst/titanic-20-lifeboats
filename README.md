@@ -25,7 +25,7 @@ By working through the passenger records in detail, I became curious about **lif
 ---
 
 ## Research Question
-**Who was saved on which lifeboat — and what stories do the Titanic’s 20 lifeboats tell?**
+**Who was saved on which lifeboat and what stories do the Titanic’s 20 lifeboats tell?**
 
 ---
 
@@ -50,7 +50,7 @@ Rather than optimising for speed or automation, this project prioritised **accur
 
 The findings are presented through two long-form infographic PDFs designed in Canva.
 
-Rather than focusing on isolated charts, the visualisations aim to **reconstruct the disaster as a sequence of human decisions**, combining statistics, symbols, and narrative labels. Each lifeboat is treated as its own story, while broader patterns — class, gender, nationality, age, and crew status — emerge across the visuals.
+Rather than focusing on isolated charts, the visualisations aim to **reconstruct the disaster as a sequence of human decisions**, combining statistics, symbols, and narrative labels. Each lifeboat is treated as its own story, while broader patterns such as class, gender, nationality, age, and crew status, emerge across the visuals.
 
 The design intentionally mirrors editorial and archival infographics, prioritising:
 - readability over technical density  
