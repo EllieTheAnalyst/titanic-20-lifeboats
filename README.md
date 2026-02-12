@@ -44,6 +44,15 @@ By working through the passenger records in detail, I became curious about **lif
 
 Rather than optimising for speed or automation, this project prioritised **accuracy, transparency, and interpretability**, drawing inspiration from archival and historical research workflows.
 
+## Data Validation & Reconstruction
+
+All lifeboat assignments were manually reconstructed and validated across multiple historical sources.
+
+The `validation/` folder contains:
+- Lifeboat master schema
+- Nationality and class aggregation checks
+- Reconciliation tracking for missing passenger cases
+
 ---
 
 ## Visualisation
