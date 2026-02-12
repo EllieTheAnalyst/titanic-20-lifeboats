@@ -20,7 +20,7 @@ I wanted to do something different:
 - clean and restructure the data manually,
 - and let the research question evolve based on what the data revealed.
 
-By working through the passenger records in detail, I became curious about **lifeboats as decision spaces** — shaped by class, gender, age, crew status, and command decisions made under extreme pressure.
+By working through the passenger records in detail, I became curious about **lifeboats as decision spaces**, shaped by class, gender, age, crew status, and command decisions made under extreme pressure.
 
 ---
 
@@ -57,7 +57,7 @@ The design intentionally mirrors editorial and archival infographics, prioritisi
 - pattern recognition over single metrics  
 - storytelling over abstraction  
 
-The goal was not only to analyse survival, but to make the data **legible, interpretable, and emotionally grounded** — allowing each lifeboat to function as a small historical record within the larger disaster.
+The goal was not only to analyse survival, but to make the data **legible, interpretable, and emotionally grounded**, allowing each lifeboat to function as a small historical record within the larger disaster.
 
 ---
 
@@ -78,7 +78,7 @@ The goal was not only to analyse survival, but to make the data **legible, inter
 ## Why This Project Matters To Me
 This project was a personal turning point.
 
-It showed me that data work doesn’t have to be abstract or detached — it can be narrative, investigative, and deeply human.  
+It showed me that data work doesn’t have to be abstract or detached, it can be narrative, investigative, and deeply human.  
 Completing this analysis is what convinced me that pursuing a career in data and information science was not just possible, but meaningful to me.
 
 
