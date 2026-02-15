@@ -1,3 +1,5 @@
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
 # The Titanic, Retold in 20 Lifeboats
 
 ## Project Overview
